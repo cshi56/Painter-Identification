@@ -1,2 +1,4 @@
 # ignore images
-*.tiff
+*.tif
+*.png
+*.jpeg
